@@ -27,7 +27,7 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://make.powerapps.com/environments/0852dd05-1972-e87b-ba01-a0f0a4603ea8/solutions/
+  ENVIRONMENT_URL: https://dev-hotfix.crm11.dynamics.com/
   USERNAME: shadab.khot101@mod.gov.uk
 
 permissions:
